@@ -1,0 +1,3 @@
+﻿  TripleX 1.0.cpp
+D:\Games\Test\TripleX 1.0\TripleX 1.0.cpp(43,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TripleX 1.0.vcxproj -> D:\Games\Test\TripleX 1.0\Debug\TripleX 1.0.exe
